@@ -650,8 +650,9 @@ box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.12),
   display: block;
   margin-bottom: 10px;
 }
-.contact-form-field :last-child {
-  margin-bottom: 10px;
+.contact-form-comment-wrapper {
+  display: block;
+  margin-bottom: 20px;
 }
 .contact-form-label {
   display: block;
@@ -746,7 +747,6 @@ box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.12),
   border: 2px solid var(--accent-color);
 }
 .contact-form-checkbox-wrapper {
-  margin-top: 10px;
   margin-bottom: 30px;
 }
 .contact-form-button-submit {
